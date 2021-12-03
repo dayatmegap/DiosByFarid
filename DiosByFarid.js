@@ -156,7 +156,7 @@ $(document).ready(function () {
     </style>
     <div class="container mx-auto">
         <img class="rounded-full flex mx-auto"
-            src="https://lab.haxoracademy.or.id/assets/files/haxor1.png" />
+            src= "https://pbs.twimg.com/profile_images/861408506892746753/PScyRJ38_400x400.jpg" />
     </div>
     
     <div id="title" class="text-center text-3xl md:text-4xl text-purple-700 mt-5">
